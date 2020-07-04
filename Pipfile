@@ -1,6 +1,6 @@
 [[source]]
-name = "pypi"
-url = "https://pypi.org/simple"
+name = "aliyun"
+url = "https://mirrors.aliyun.com/pypi/simple"
 verify_ssl = true
 
 [dev-packages]
@@ -10,4 +10,4 @@ autopep8 = "*"
 kubernetes = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3"
